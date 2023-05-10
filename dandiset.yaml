@@ -11,9 +11,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: 'Liao, Song-Mao (2023) Dataset: A change in behavioral state switches the
-  pattern of motor output that underlies rhythmic head and orofacial movements (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000534/draft'
+citation: 'Liao, Song-Mao; Kleinfeld, David (2023) Dataset: A change in behavioral
+  state switches the pattern of motor output that underlies rhythmic head and orofacial
+  movements (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234'
 contributor:
 - affiliation: []
   email: songmao.liao@gmail.com
@@ -22,7 +22,13 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Kleinfeld, David
+  roleName: []
+  schemaKey: Person
 dateCreated: '2023-05-09T23:54:18.454963+00:00'
+datePublished: '2023-05-10T00:07:25.187956+00:00'
 description: 'Recorded data (videography, respiration, electromyogram, and wearable
   sensor signals) from rats performing foraging and rearing behaviors in an open arena.
 
@@ -31,6 +37,7 @@ description: 'Recorded data (videography, respiration, electromyogram, and weara
   movements.
 
   Dataset uploaded by the Kleinfeld Laboratory at University of California San Diego.'
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000534/draft
 identifier: DANDI:000534
@@ -51,7 +58,20 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000534/versions/draft/assets/
 name: 'Dataset: A change in behavioral state switches the pattern of motor output
   that underlies rhythmic head and orofacial movements'
-protocol: []
+protocol:
+- https://doi.org/10.1016/j.cub.2023.04.008
+publishedBy:
+  endDate: '2023-05-10T00:07:25.187956+00:00'
+  id: urn:uuid:d35f2b17-f4f4-4137-b111-0d769cf99d9d
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-05-10T00:07:25.187956+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9c97ec63-0dff-47dd-8c0a-12b150eb55fc
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
