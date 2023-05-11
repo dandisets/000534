@@ -11,9 +11,10 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: 'Liao, Song-Mao; Kleinfeld, David; Rinehart, Duane (2023) Dataset: A change
-  in behavioral state switches the pattern of motor output that underlies rhythmic
-  head and orofacial movements (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000534/draft'
+citation: 'Liao, Song-Mao; Kleinfeld, David; Rinehart, Duane; University of California
+  San Diego (2023) Dataset for: A change in behavioral state switches the pattern
+  of motor output that underlies rhythmic head and orofacial movements (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000534/draft'
 contributor:
 - affiliation: []
   email: songmao.liao@gmail.com
@@ -33,14 +34,19 @@ contributor:
   roleName:
   - dcite:Software
   schemaKey: Person
-- contactPoint: []
-  includeInCitation: false
+- awardNumber: U19 NS107466
+  contactPoint: []
+  identifier: https://ror.org/0168r3w48
+  includeInCitation: true
   name: University of California San Diego
-  roleName: []
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
+  url: https://ucsd.edu/
 dateCreated: '2023-05-09T23:54:18.454963+00:00'
-description: 'Recorded data (videography, respiration, electromyogram, and wearable
-  sensor signals) from rats performing foraging and rearing behaviors in an open arena.
+description: 'Recorded multi-modal data (videography, respiration, electromyogram,
+  and wearable sensor signals) from rats performing foraging and rearing behaviors
+  in an open arena.
 
   Dataset for S.-M. Liao and D. Kleinfeld, Current Biology (2023). A change in behavioral
   state switches the pattern of motor output that underlies rhythmic head and orofacial
@@ -65,7 +71,7 @@ license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000534/versions/draft/assets/
-name: 'Dataset: A change in behavioral state switches the pattern of motor output
+name: 'Dataset for: A change in behavioral state switches the pattern of motor output
   that underlies rhythmic head and orofacial movements'
 protocol:
 - https://doi.org/10.1016/j.cub.2023.04.008
