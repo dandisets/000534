@@ -6,7 +6,13 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
-acknowledgement: ''
+acknowledgement: We thank Rodolfo Figueroa for assistance with the instrumentation;
+  Zaneta Ku, Peyton O’Callaghan, Emma Osgood, Sabrina Tuell, and Nina Zhang for animal
+  training; Julia Kuhl for drawing all illustrations; Martyn Goulding, Jill Leutgeb,
+  Fan Wang, Jing Wang, and Arash Fassihi Zakeri for conversations; and Beth Friedman
+  and Philipp Mächler for comments on a draft manuscript. This work was supported
+  by the Taiwan Ministry of Education Scholarship (GSSA) and the United States National
+  Institutes of Health (R01 NS058668; U01 NS090595; U19 NS107466).
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
