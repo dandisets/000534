@@ -6,13 +6,7 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
-acknowledgement: We thank Rodolfo Figueroa for assistance with the instrumentation;
-  Zaneta Ku, Peyton O’Callaghan, Emma Osgood, Sabrina Tuell, and Nina Zhang for animal
-  training; Julia Kuhl for drawing all illustrations; Martyn Goulding, Jill Leutgeb,
-  Fan Wang, Jing Wang, and Arash Fassihi Zakeri for conversations; and Beth Friedman
-  and Philipp Mächler for comments on a draft manuscript. This work was supported
-  by the Taiwan Ministry of Education Scholarship (GSSA) and the United States National
-  Institutes of Health (R01 NS058668; U01 NS090595; U19 NS107466).
+acknowledgement: ''
 assetsSummary:
   approach: []
   dataStandard:
@@ -26,70 +20,20 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: 'Liao, Song-Mao; Kleinfeld, David; Rinehart, Duane; University of California
-  San Diego (2023) (old) Dataset for: A change in behavioral state switches the pattern
-  of motor output that underlies rhythmic head and orofacial movements (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000534/draft'
-contributor:
-- affiliation: []
-  email: songmao.liao@gmail.com
-  includeInCitation: true
-  name: Liao, Song-Mao
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Kleinfeld, David
-  roleName: []
-  schemaKey: Person
-- affiliation: []
-  includeInCitation: true
-  name: Rinehart, Duane
-  roleName:
-  - dcite:Software
-  schemaKey: Person
-- awardNumber: U19 NS107466
-  contactPoint: []
-  identifier: https://ror.org/0168r3w48
-  includeInCitation: true
-  name: University of California San Diego
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
-  url: https://ucsd.edu/
+citation: to_be_deleted (2023). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000534/draft
+contributor: []
 dateCreated: '2023-05-09T23:54:18.454963+00:00'
-description: 'Recorded multi-modal data (videography, respiration, electromyogram,
-  and wearable sensor signals) from rats performing foraging and rearing behaviors
-  in an open arena.
-
-  Dataset for S.-M. Liao and D. Kleinfeld, Current Biology (2023). A change in behavioral
-  state switches the pattern of motor output that underlies rhythmic head and orofacial
-  movements.
-
-  Dataset uploaded by the Kleinfeld Laboratory at University of California San Diego.'
+description: .
 ethicsApproval: []
 id: DANDI:000534/draft
 identifier: DANDI:000534
-keywords:
-- breathing
-- coupled oscillators
-- electromyogram
-- foraging
-- muscles
-- nose
-- preBotzinger complex
-- rearing
-- vibrissae
-- whiskers
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000534/versions/draft/assets/
-name: '(old) Dataset for: A change in behavioral state switches the pattern of motor
-  output that underlies rhythmic head and orofacial movements'
-protocol:
-- https://doi.org/10.1016/j.cub.2023.04.008
+name: to_be_deleted
+protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
